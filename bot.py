@@ -24,8 +24,8 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN: Final[str] = os.getenv("BOT_TOKEN")
-ADMIN_CHAT_ID: Final[str] = os.getenv("ADMIN_CHAT_ID", "")
+TOKEN: Final[str] = os.getenv("8539857651:AAEZONa579W_JtU_tR2BV4CRS6AI52P4ueQ")
+ADMIN_CHAT_ID: Final[str] = os.getenv("ADMIN_CHAT_ID", "500574875")
 SITE_LINK: Final[str] = "https://a-yakubenko.com"
 WHATSAPP_LINK: Final[str] = "https://wa.me/97450146509?text=Здравствуйте!%20Хочу%20получить%20консультацию%20по%20Herbalife."
 TELEGRAM_BOT_LINK: Final[str] = "https://t.me/anna_yakubenko_bot"
